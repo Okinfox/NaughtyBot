@@ -1,2 +1,11 @@
 # NaughtyBot
 Naughty bot le robot désagréable 
+
+
+
+matériel normalement utilisé:
+-servo moteur
+-écran oled
+-capteur ultra son
+
+nous avons eu différents disfonctionnement sur le matériel fourni mais nous n'avons pas pu changer la totalité par conséquent le robot initialement censé pouvoir se tourner sur lui même pour détecter la présence d'une personne ne peut pas le faire du a un disfonctionnement du servo moteur 
