@@ -1,5 +1,4 @@
 # NaughtyBot
 Naughty bot le robot désagréable 
 
-
-nous avons eu différents disfonctionnements sur le matériel fourni mais nous n'avons pas pu changer la totalité des pièces fournies, par conséquent, le robot initialement censé pouvoir tourner sur lui même pour détecter la présence d'une personne ne peut pas le faire du a un disfonctionnement du servo moteur.
+un robot qui a pour capacité de détécter et de trouver la presence humaine autour de lui et d'afficher un message en consequence 
