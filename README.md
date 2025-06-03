@@ -1,4 +1,4 @@
 # NaughtyBot
 Naughty bot le robot désagréable 
 
-un robot qui a pour capacité de détécter et de trouver la presence humaine autour de lui et d'afficher un message en consequence 
+un robot qui a pour capacité de tourner sur lui même pour détécter une presence humaine, et, en fonction de la distance entre ces deux, afficher un message en consequence
